@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2017-06-06 22:30:32</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>phil.hargis</sys_created_by>
+        <sys_created_on>2017-06-06 22:30:32</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>981aac44db1b3200dd0d7e7dbf96194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fLBVLJtlv84:APA91bEbw1L2mPVFecIEuCk13jptDNy_YUNwZKvhpPZAqgAxfh8NCBwJdjkhaEC5YOt47ndHLy9JDr7V6Pn_gTkzTlwCSRZHg4dWVn3-zSyLoIwQ41yJqjYV1MKg_k9PwwXxLc8Fvx8e</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_981aac44db1b3200dd0d7e7dbf96194a</sys_update_name>
+        <sys_updated_by>phil.hargis</sys_updated_by>
+        <sys_updated_on>2017-06-06 22:30:32</sys_updated_on>
+        <sys_user_id display_value="Phil Hargis">1ca69c44dbe52200dd0d7e7dbf96195b</sys_user_id>
+        <token>fLBVLJtlv84:APA91bEbw1L2mPVFecIEuCk13jptDNy_YUNwZKvhpPZAqgAxfh8NCBwJdjkhaEC5YOt47ndHLy9JDr7V6Pn_gTkzTlwCSRZHg4dWVn3-zSyLoIwQ41yJqjYV1MKg_k9PwwXxLc8Fvx8e</token>
+    </sys_push_notif_app_install>
+</record_update>
